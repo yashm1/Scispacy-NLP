@@ -1,0 +1,61 @@
+Serial,text,Canonical Name,Concept ID,Definition,TUI
+0,text : PES,Cannonical Name: Foot,CUI: C0016504,Definition: The distal extremity of the leg in vertebrates,TUI(s): T023
+1,text : treatment,Cannonical Name: Paw,CUI: C0687080,Definition: The foot of a quadruped animal,TUI(s): T023
+2,text : temperature,Cannonical Name: Personal Experience Scales,CUI: C0687136,Definition: None,TUI(s): T170
+3,text : treatment,Cannonical Name: PES1 gene,CUI: C1418467,Definition: None,TUI(s): T028
+4,text : surface,Cannonical Name: Structure of ankle and/or foot (body structure),CUI: C1690938,Definition: None,TUI(s): T023
+5,text : technique,Cannonical Name: therapeutic aspects,CUI: C0039798,Definition: Used with diseases for therapeutic interventions except drug therapy,TUI(s): T169
+6,text : \heating,Cannonical Name: Therapeutic procedure,CUI: C0087111,Definition: Procedures concerned with the remedial treatment or prevention of diseases.,TUI(s): T061
+7,text : electrolytic,Cannonical Name: Treating,CUI: C1522326,Definition: Subject to a process with the aim of readying for some purpose,TUI(s): T169
+8,text : plasma,Cannonical Name: Administration procedure,CUI: C1533734,Definition: The act of the dispensing,TUI(s): T061
+9,text : phenomenon,Cannonical Name: Biomaterial Treatment,CUI: C1705169,Definition: The process by which a biomaterial is created (from source biomaterials). Treatments have an order and an action. (caMAGE),TUI(s): T077
+10,text : electrolyte,Cannonical Name: Body Temperature,CUI: C0005903,Definition: The measure of the level of heat of a human or animal.,TUI(s): T032
+11,text : surface,Cannonical Name: Temperature,CUI: C0039476,Definition: The property of objects that determines the direction of heat flow when they are placed in direct thermal contact. The temperature is the energy of microscopic motions (vibrational and translational) of the particles of atoms.,TUI(s): T081
+12,text : electrode,Cannonical Name: Body temperature measurement,CUI: C0886414,Definition: Actions performed to measure body temperature,TUI(s): T058
+13,text : studies,Cannonical Name: Cold Temperature,CUI: C0009264,Definition: Having less heat energy than the object against which it is compared; the absence of heat.,TUI(s): T070
+14,text : processes,Cannonical Name: Biological Sample Storage Condition Log,CUI: C3899939,Definition: Records of the data pertaining to monitoring and tracking of the storage condition of a biological sample.,TUI(s): T170
+15,text : surface,Cannonical Name: therapeutic aspects,CUI: C0039798,Definition: Used with diseases for therapeutic interventions except drug therapy,TUI(s): T169
+16,text : saturation,Cannonical Name: Therapeutic procedure,CUI: C0087111,Definition: Procedures concerned with the remedial treatment or prevention of diseases.,TUI(s): T061
+17,text : bulk materials,Cannonical Name: Treating,CUI: C1522326,Definition: Subject to a process with the aim of readying for some purpose,TUI(s): T169
+18,text : innovations,Cannonical Name: Administration procedure,CUI: C1533734,Definition: The act of the dispensing,TUI(s): T061
+19,text : industrial,Cannonical Name: Biomaterial Treatment,CUI: C1705169,Definition: The process by which a biomaterial is created (from source biomaterials). Treatments have an order and an action. (caMAGE),TUI(s): T077
+20,text : application,Cannonical Name: Surface,CUI: C0205148,Definition: The extended two-dimensional outer boundary of a three-dimensional object.,TUI(s): T082
+21,text : technique,Cannonical Name: Surface of bone,CUI: C0825429,Definition: The exterior part of the bone.,TUI(s): T029
+22,"text : Plasma
+Electrolytic Saturation",Cannonical Name: Cell surface,CUI: C0699040,Definition: The external part of the cell wall and/or plasma membrane. [GOC:jl,TUI(s): T026
+23,text : PES,Cannonical Name: Membrane Proteins,CUI: C0025252,Definition: Proteins which are found in membranes including cellular and intracellular membranes. They consist of two types,TUI(s): T116
+24,text : investigation,Cannonical Name: Body surface,CUI: C0489451,Definition: The surface of an external body region.,TUI(s): T032
+25,text : plasma,Cannonical Name: Techniques,CUI: C0449851,Definition: A practiced and regimented skill or series of actions.,TUI(s): T169
+26,text : electrolytic processes,Cannonical Name: Axillary Reverse Mapping,CUI: C4761640,Definition: A technique used to identify the lymph nodes that drain the upper arm. Like axillary or sentinel lymph node mapping a blue dye is injected into the upper volar subcutaneous tissue of the upper arm to map the lymphatic drainage of the area. The goal of ARM,TUI(s): T060
+27,text : physical,Cannonical Name: Soft tissue traction technique,CUI: C1562800,Definition: A procedure of high or low amplitude in which the parts are stretched or separated along a longitudinal axis with continuous or intermittent force.,TUI(s): T061
+28,text : chemical background,Cannonical Name: Active Method,CUI: C1704532,Definition: Technique in which the person voluntarily performs an osteopathic practitioner directed motion.,TUI(s): T061
+29,text : plasma phenomena,Cannonical Name: Methods aspects,CUI: C0025664,Definition: Used with techniques,TUI(s): T169
+30,text : plasma,Cannonical Name: Heating,CUI: C0018851,Definition: The application of heat to raise the temperature of the environment,TUI(s): T069
+31,text : electrolytic processes,Cannonical Name: Eating,CUI: C0013470,Definition: The consumption of edible substances.,TUI(s): T040
+32,text : phenomenological model,Cannonical Name: Usually Need Help from Another Person for Eating,CUI: C4318483,Definition: A response indicating that an individual needs help from another person for eating.,TUI(s): T033
+33,text : generic term,Cannonical Name: Electrolytes,CUI: C0013832,Definition: Substances that dissociate into two or more ions,TUI(s): T121
+34,text : Plasma,Cannonical Name: Plasma,CUI: C0032105,Definition: The residual portion of BLOOD that is left after removal of BLOOD CELLS by CENTRIFUGATION without prior BLOOD COAGULATION.,TUI(s): T031
+35,text : PES,Cannonical Name: Specimen Source Codes - Plasma,CUI: C1546740,Definition: None,TUI(s): T170
+36,text : Plasma Electrolytic Nitrocarburizing (PEN/C) procedures,Cannonical Name: Plasma - SpecimenType,CUI: C1609077,Definition: None,TUI(s): T031
+37,text : PES,Cannonical Name: Plasma Product,CUI: C4521445,Definition: The fluid (noncellular) portion of the circulating blood,TUI(s): T121
+38,text : technique,Cannonical Name: Plasma Cells,CUI: C0032112,Definition: Specialized forms of antibody-producing B-LYMPHOCYTES. They synthesize and secrete immunoglobulin. They are found only in lymphoid organs and at sites of immune responses and normally do not circulate in the blood or lymph. (Rosen et al.,TUI(s): T025
+39,text : procedures,Cannonical Name: Phenomenon,CUI: C1882365,Definition: Any state or process known through the senses rather than by intuition or reasoning.,TUI(s): T067
+40,text : electrolyte,Cannonical Name: Optical Phenomena,CUI: C2350474,Definition: LIGHT,TUI(s): T070
+41,text : decomposition,Cannonical Name: Physical Phenomenon or Property,CUI: C0597237,Definition: A natural phenomenon involving the physics of matter and energy.,TUI(s): T070
+42,text : dielectric discharge,Cannonical Name: Physical Phenomena,CUI: C2350446,Definition: The entities of matter and energy,TUI(s): T070
+43,text : phenomenon,Cannonical Name: Genetic Phenomena,CUI: C2350469,Definition: The biological processes,TUI(s): T070
+44,"text : heat
+transfer",Cannonical Name: Electrolytes,CUI: C0013832,Definition: Substances that dissociate into two or more ions,TUI(s): T121
+45,text : plasma,Cannonical Name: Electrolyte [EPC],CUI: C3536863,Definition: None,TUI(s): T121
+46,text : environment,Cannonical Name: Electrolyte imbalance,CUI: C0342579,Definition: Higher or lower than normal values for the serum electrolytes; usually affecting NA,TUI(s): T046
+47,text : carbon,Cannonical Name: Disorder of electrolytes,CUI: C1704431,Definition: A metabolic disorder that is characterized by electrolyte imbalances (e.g.,TUI(s): T046
+48,text : nitrogen particles,Cannonical Name: Surface,CUI: C0205148,Definition: The extended two-dimensional outer boundary of a three-dimensional object.,TUI(s): T082
+49,text : nally,Cannonical Name: Surface of bone,CUI: C0825429,Definition: The exterior part of the bone.,TUI(s): T029
+50,text : concepts,Cannonical Name: Cell surface,CUI: C0699040,Definition: The external part of the cell wall and/or plasma membrane. [GOC:jl,TUI(s): T026
+51,text : model,Cannonical Name: Membrane Proteins,CUI: C0025252,Definition: Proteins which are found in membranes including cellular and intracellular membranes. They consist of two types,TUI(s): T116
+52,text : Plasma,Cannonical Name: Body surface,CUI: C0489451,Definition: The surface of an external body region.,TUI(s): T032
+53,text : technique,Cannonical Name: electrode,CUI: C0013812,Definition: Electric conductors through which electric currents enter or leave a medium,TUI(s): T073
+54,text : asset,Cannonical Name: Specimen Source Codes - Electrode,CUI: C1546616,Definition: None,TUI(s): T170
+55,text : information,Cannonical Name: Specimen Type - Electrode,CUI: C1550631,Definition: None,TUI(s): T031
+56,text : researchers,Cannonical Name: Gel Electrode,CUI: C3204501,Definition: A device that uses a gel to carry an electric current from the skin to a measuring instrument. A sticky patch may hold the gel electrode on the skin so that the electrical activity of the heart or brain can be measured.,TUI(s): T074
+57,text : treatment,Cannonical Name: Electrode Grid,CUI: C2348395,Definition: An electrode placed between the cathode and anode of a vacuum tube to control the flow of electrons through the tube.,TUI(s): T074

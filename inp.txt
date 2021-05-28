@@ -1,0 +1,26 @@
+In PES treatment, the high temperature of treatment aects the surface hardening procedure [3,4],
+thus, this technique was termed \heating in electrolytic
+plasma". Furthermore, the phenomenon of electrolyte
+components diusion into the surface of the electrode
+was also noticed. During previous studies, these eects
+were used to develop a set of processes directed to
+the surface saturation of bulk materials with various
+alloying elements [5,6], thus new innovations for the
+industrial application of the technique, termed Plasma
+Electrolytic Saturation (PES), developed. However,
+further investigation of the plasma electrolytic processes requires an understanding of the physical and
+chemical background of the plasma phenomena and
+nitrocarburized layer formation. In order to nd out
+the principles of the plasma electrolytic processes,
+reviewing and nding a phenomenological model in
+the generic term of Plasma Electrolytic Saturation
+(PES) is required. Therefore, the purpose of this
+work is to clarify the Plasma Electrolytic Nitrocarburizing (PEN/C) procedures as a kind of PES technique. These procedures chie
+y consist of electrolyte
+decomposition, dielectric discharge phenomenon, heat
+transfer from the plasma environment to the carbon
+and nitrogen particles and, nally, diusion route,
+respectively. These concepts, as a model of the Plasma
+Electrolytic Saturation (PES) technique, can provide
+asset information for the researchers to take control
+over the treatment.
